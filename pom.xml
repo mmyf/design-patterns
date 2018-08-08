@@ -5,6 +5,38 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>singleton-design-pattern</module>
+  	<module>factory</module>
+  	<module>abstract-factory</module>
+  	<module>singleton</module>
+  	<module>builder</module>
+  	<module>prototype</module>
+  	<module>adapter</module>
+  	<module>bridge</module>
+  	<module>filter</module>
+  	<module>composite</module>
+  	<module>decorator</module>
+  	<module>facade</module>
+  	<module>flyweight</module>
+  	<module>proxy</module>
+  	<module>chain-of-responsability</module>
+  	<module>command</module>
+  	<module>interpreter</module>
+  	<module>iterator</module>
+  	<module>mediator</module>
+  	<module>memento</module>
+  	<module>observer</module>
+  	<module>state</module>
+  	<module>null-object</module>
+  	<module>strategy</module>
+  	<module>template</module>
+  	<module>visitor</module>
+  	<module>mvc</module>
+  	<module>delegate</module>
+  	<module>entity</module>
+  	<module>data-access-object</module>
+  	<module>front-controller</module>
+  	<module>intercepting-filter</module>
+  	<module>service-locator</module>
+  	<module>transfer-object</module>
   </modules>
 </project>
