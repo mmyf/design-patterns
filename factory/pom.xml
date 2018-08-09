@@ -7,7 +7,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-  <groupId>org.mmyf.design.patterns</groupId>
   <artifactId>factory</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
