@@ -1,4 +1,6 @@
-package org.abstractFactory;
+package com.etudes.design.patterns.abstractFactory.impl;
+
+import com.etudes.design.patterns.abstractFactory.Color;
 
 public class Red implements Color {
 

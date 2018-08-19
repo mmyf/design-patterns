@@ -1,4 +1,9 @@
-package org.abstractFactory;
+package com.etudes.design.patterns.abstractFactory.demo;
+
+import com.etudes.design.patterns.abstractFactory.Color;
+import com.etudes.design.patterns.abstractFactory.Shape;
+import com.etudes.design.patterns.abstractFactory.abstractFactory.AbstractFactory;
+import com.etudes.design.patterns.abstractFactory.producer.FactoryProducer;
 
 public class AbstractFactoryPatternDemo {
 	public static void main(String[] args) {

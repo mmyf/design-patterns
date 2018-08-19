@@ -1,4 +1,8 @@
-package org.abstractFactory;
+package com.etudes.design.patterns.abstractFactory.producer;
+
+import com.etudes.design.patterns.abstractFactory.abstractFactory.AbstractFactory;
+import com.etudes.design.patterns.abstractFactory.factory.ColorFactory;
+import com.etudes.design.patterns.abstractFactory.factory.ShapeFactory;
 
 public class FactoryProducer {
 	public static AbstractFactory getFactory(String choice) {

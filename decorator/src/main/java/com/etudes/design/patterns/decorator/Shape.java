@@ -1,13 +1,5 @@
-package org.decorator;
+package com.etudes.design.patterns.decorator;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public interface Shape {
+	void draw();
 }

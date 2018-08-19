@@ -1,4 +1,11 @@
-package org.abstractFactory;
+package com.etudes.design.patterns.abstractFactory.factory;
+
+import com.etudes.design.patterns.abstractFactory.Color;
+import com.etudes.design.patterns.abstractFactory.Shape;
+import com.etudes.design.patterns.abstractFactory.abstractFactory.AbstractFactory;
+import com.etudes.design.patterns.abstractFactory.impl.Blue;
+import com.etudes.design.patterns.abstractFactory.impl.Green;
+import com.etudes.design.patterns.abstractFactory.impl.Red;
 
 public class ColorFactory extends AbstractFactory {
 
@@ -8,7 +15,7 @@ public class ColorFactory extends AbstractFactory {
 	}
 
 	@Override
-	Color getColor(String color) {
+	public Color getColor(String color) {
 
 		if (color == null) {
 			return null;
