@@ -1,13 +1,5 @@
-package org.proxy;
+package com.etudes.design.patterns.proxy;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public interface Image {
+	void display();
 }

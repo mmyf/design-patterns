@@ -1,4 +1,7 @@
-package org.factory;
+package com.etudes.factory.app;
+
+import com.etudes.factory.Shape;
+import com.etudes.factory.domain.ShapeFactory;
 
 public class FactoryPatternDemo {
 

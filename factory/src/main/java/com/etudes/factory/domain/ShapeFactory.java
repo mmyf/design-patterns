@@ -1,4 +1,9 @@
-package org.factory;
+package com.etudes.factory.domain;
+
+import com.etudes.factory.Shape;
+import com.etudes.factory.impl.Circle;
+import com.etudes.factory.impl.Rectangle;
+import com.etudes.factory.impl.Square;
 
 public class ShapeFactory {
 

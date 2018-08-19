@@ -1,13 +1,5 @@
-package org.facade;
+package com.etudes.design.pattern.facade;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public interface Shape {
+	void draw();
 }

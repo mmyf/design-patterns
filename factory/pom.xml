@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
         <artifactId>design-patterns</artifactId>
-        <groupId>org.mmyf.design.patterns</groupId>
+        <groupId>com.etudes.design.patterns</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 

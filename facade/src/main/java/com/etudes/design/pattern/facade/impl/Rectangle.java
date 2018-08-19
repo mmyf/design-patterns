@@ -1,20 +1,11 @@
-package org.facade;
+package com.etudes.design.pattern.facade.impl;
 
-import static org.junit.Assert.assertTrue;
+import com.etudes.design.pattern.facade.Shape;
 
-import org.junit.Test;
+public class Rectangle implements Shape {
 
-/**
- * Unit test for simple App.
- */
-public class AppTest 
-{
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
+	@Override
+	public void draw() {
+		System.out.println("Rectangle::draw()");
+	}
 }

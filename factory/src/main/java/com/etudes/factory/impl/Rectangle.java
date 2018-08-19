@@ -1,4 +1,6 @@
-package org.factory;
+package com.etudes.factory.impl;
+
+import com.etudes.factory.Shape;
 
 public class Rectangle implements Shape {
 
