@@ -38,5 +38,6 @@
   	<module>service-locator</module>
   	<module>transfer-object</module>
     <module>composite</module>
+    <module>nullObject</module>
   </modules>
 </project>
