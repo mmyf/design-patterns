@@ -39,5 +39,6 @@
   	<module>transfer-object</module>
     <module>composite</module>
     <module>nullObject</module>
+    <module>business-delegate</module>
   </modules>
 </project>
