@@ -40,5 +40,6 @@
     <module>composite</module>
     <module>nullObject</module>
     <module>business-delegate</module>
+    <module>composite-entity</module>
   </modules>
 </project>
